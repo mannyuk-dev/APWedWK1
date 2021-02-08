@@ -7,6 +7,8 @@
 //ex2 file writer APwk1
 //else block writes using ios.
 
+//https://repl.it/@mannydev/ex2wedAP#main.cpp
+
 using namespace std;
 
 
