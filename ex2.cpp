@@ -18,14 +18,14 @@ int main() {
  
   char input;
   string name;
-  do{
+  do {
     cout << "Add text? (Y/N)";
     cin >> input; 
     if(input == 'N'){
       break;
-    }
+   }
     //Break loop when N is entered 
-    else{
+    else {
       vector<string> list;
       cout << "Enter name: \n";
       cin >> name;
